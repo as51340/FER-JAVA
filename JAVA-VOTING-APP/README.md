@@ -1,2 +1,9 @@
 # JAVA-VOTING-APP
-v1: Simple web application with Java servlets.
+
+- Voting app
+- More polls can be added easily in program
+- Voting for best band
+- Generating excell file
+- Generating pie chart object
+- servlets are used
+
