@@ -1,0 +1,11 @@
+{$= "text/html" @setMimeType $}
+<html>
+	<body>
+		<h1> Zbrajanje </h1>
+		
+	<img src="images/kobe.png" alt="nista" style="height: 300px;"/>
+		
+	</body>
+	
+</html>
+	

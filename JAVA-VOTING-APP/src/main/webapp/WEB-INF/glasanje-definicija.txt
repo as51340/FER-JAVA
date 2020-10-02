@@ -1,0 +1,21 @@
+1	The Beatles	https://www.youtube.com/watch?v=z9ypq6_5bsg
+2	The Platters	https://www.youtube.com/watch?v=H2di83WAOhU
+3	The Beach Boys	https://www.youtube.com/watch?v=2s4slliAtQU
+4	The Four Seasons	https://www.youtube.com/watch?v=y8yvnqHmFds
+5	The Marcels	https://www.youtube.com/watch?v=qoi3TH59ZEs
+6	The Everly Brothers	https://www.youtube.com/watch?v=tbU3zdAgiX8
+13	U2	https://www.youtube.com/watch?v=_Ye8GLPUVsM&list=PLEsW0I4D4LQYL-Sf4VsTYigiyyaGboDYm
+7	The Mamas And The Papas	https://www.youtube.com/watch?v=N-aK6JnyFmk
+91	Aerosmith	https://www.youtube.com/watch?v=JkK8g6FMEXE
+8	4 Non Blondes	https://www.youtube.com/watch?v=6NXnxTNIWkc
+99	Bon Jovi	https://www.youtube.com/watch?v=vx2u5uUu3DE&list=PLmfMgqsFYhSNVs8jiqOYksJcauba2D9kM
+23	Led Zeppelin	https://www.youtube.com/watch?v=sfR_HWMzgyc
+67	The Eagles	https://www.youtube.com/watch?v=EqPtz5qN7HM
+19	Queen	https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+77	Metallica	https://www.youtube.com/watch?v=tAGnKpE4NCI
+556	AC/DC	https://www.youtube.com/watch?v=v2AC41dglnM
+43	The Cranberries	https://www.youtube.com/watch?v=6Ejga4kJUts
+21	Green Day	https://www.youtube.com/watch?v=r00ikilDxW4
+69	Linkin Park	https://www.youtube.com/watch?v=kXYiU_JCYtU
+71	Nirvana	https://www.youtube.com/watch?v=hTWKbfoikeg
+27	Coldplay	https://www.youtube.com/watch?v=kayI9QB1-IA

@@ -1,0 +1,4 @@
+Idemo prvi forhend \\   {$ FOR tenis 15 AD 40 $}
+backend {$ = 40 40 deuce $}
+nerijesen je ovaj textNode
+{$END$}
