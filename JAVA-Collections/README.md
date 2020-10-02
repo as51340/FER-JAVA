@@ -1,3 +1,6 @@
-# JAVA--Collections
+# JAVA-Collections
 
-Documentation is written as part of the programs.
+- Support for working with complex numbers
+- ArrayIndexedCollection 
+- LinkedListCollection
+- Stack implementation
