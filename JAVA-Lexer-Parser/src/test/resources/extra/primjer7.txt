@@ -1,3 +1,0 @@
-Ovo je isto OK {$ = "String ide
-u \"više\" \nredaka
-ovdje a stvarno četiri" $}

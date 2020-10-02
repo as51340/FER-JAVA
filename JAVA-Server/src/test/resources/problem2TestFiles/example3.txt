@@ -1,4 +1,0 @@
-Ovo je text node\{ {$ FOR a 1 1 n $}
-{$END$}
-{$= iiii "ii  " ii ii $}
-{$END$}

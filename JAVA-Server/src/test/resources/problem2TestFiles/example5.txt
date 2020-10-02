@@ -1,3 +1,0 @@
-Početni tekst \{ sa jednim vanjskim escapeom {$ FOR prv_a 2 2 "varijab\"la"$}
-{$ = Ovo je prvi echo $} {$= Ovo "j\"e dru\"gi\\ "echinho$}
-{$END$}
